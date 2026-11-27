@@ -2,7 +2,7 @@
 
 2. Bei Erstinstallation wird Python Installiert, nicht erschrecken beim Aufploppen des Installationsfensters
 
-3. Normalerweise wird der .venv-Ordner noch erstellt, was 15-Minuten dauert, hier habe ich das aber schon vorgemacht
+3. Dann wird der .venv-Ordner erstellt, dies dauert 15-Minuten
 
 4. nochmal auf "start_translator.bat" klicken um den webserver zu starten Lokal auf deinem Rechner
 
