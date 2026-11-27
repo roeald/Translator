@@ -1,6 +1,6 @@
 1. Starten des Programmes mit: start_translator.bat
 
-2. Bei Erstinstallation wird Pyhton Installiert, nicht erschrecken beim Aufploppen des Installationsfensters
+2. Bei Erstinstallation wird Python Installiert, nicht erschrecken beim Aufploppen des Installationsfensters
 
 3. Normalerweise wird der .venv-Ordner noch erstellt, was 15-Minuten dauert, hier habe ich das aber schon vorgemacht
 
