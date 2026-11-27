@@ -21,3 +21,5 @@
    dass ingesamt 10GB RAM verbraucht, sonst wirds sehr langsam oder stürzt ab.
 
 7. Wenn man alles fertig übersetzt hat, drücke "Strg+C" im Konsolenfenster und dann "J" um das Programm zu beenden.
+
+ja der Code ist KI generiert, habe das an einem Nachmittag gemacht
